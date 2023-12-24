@@ -15,6 +15,8 @@
 		echo("Hello Africa!!!<br />");
 		
 		echo("Hello Island!!!<br />");
+		
+		echo("Create feature/issue2<br />");
 	?>
 	<br/><br/><br/>		
 </body>
